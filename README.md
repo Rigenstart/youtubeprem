@@ -13,3 +13,24 @@
     wget -O https://rentry.co/9qoae
     bash install.sh
     python premyt.py
+
+
+
+
+### Termux
+
+    apt update -y && apt upgrade -y
+    pkg install git
+    pkg install python3
+    apt install wget
+    pip install wget
+    
+   git clone https://github.com/Rigenstart/youtubeprem
+    bash install.sh
+    python premyt.py
+
+## Usage
+
+    python3 premyt.py
+
+## Thank you
